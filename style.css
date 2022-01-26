@@ -297,19 +297,41 @@ a span:nth-child(4)
 				 0 0 120px #00b3ff;
 
 }
-@media(max-width:600px){
+@media(max-width:1016px){
 .box h2
 {
-	font-family:  'Nunito', sans-serif;
-	color: #fff;
-	font-size: 1.5em;
-	font-weight: 100;
-	letter-spacing: 0.1em;
-	text-shadow: 0 0 10px #00b3ff,
-				 0 0 20px #00b3ff,
-				 0 0 40px #00b3ff,
-				 0 0 80px #00b3ff,
-				 0 0 120px #00b3ff;
+	font-size: 2.8rem;
 }
+}
+@media(max-width:952px){
+	.box h2
+	{
+		font-size: 2rem;
+	}
+
+}
+
+
+@media(max-width:677px){
+	.box h2
+	{
+		font-size: 1.5rem;
+	}
+
+}
+
+@media(max-width:506px){
+	.box h2
+	{
+		font-size: 1rem;
+	}
+
+}
+
+@media(max-width:338px){
+	.box h2
+	{
+		font-size: 0.8rem;
+	}
 
 }
