@@ -125,7 +125,7 @@ a:nth-child(1)
 
 a:nth-child(2)
 {
-	filter: hue-rotate(120deg);
+	filter: hue-rotate(190deg);
 }
 
 a:nth-child(3)
@@ -135,7 +135,7 @@ a:nth-child(3)
 
 a:nth-child(4)
 {
-	filter: hue-rotate(140deg);
+	filter: hue-rotate(190deg);
 }
 
 a:nth-child(5)
@@ -144,7 +144,7 @@ a:nth-child(5)
 }
 a:nth-child(6)
 {
-	filter: hue-rotate(220deg);
+	filter: hue-rotate(140deg);
 }
 a:nth-child(7)
 {
@@ -152,9 +152,13 @@ a:nth-child(7)
 }
 a:nth-child(8)
 {
-	filter: hue-rotate(0deg);
+	filter: hue-rotate(220deg);
 }
 a:nth-child(9)
+{
+	filter: hue-rotate(0deg);
+}
+a:nth-child(10)
 {
 	filter: hue-rotate(300deg);
 }
